@@ -1,4 +1,8 @@
-###Қайрулла Руслан ВТиП-202
+### Қайрулла Руслан ВТиП-202
+
+![chrome_review](image/0001.png)
+
+![firefox_review](image/0002.png)
 
 ```
 <!DOCTYPE html>
